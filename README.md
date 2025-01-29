@@ -80,7 +80,7 @@ python “drowsiness detection.py”
 It may take a few seconds to open the webcam and start detection.
 
 
-![alt text](<Screenshot 2025-01-29 164529.png>)
+![alt text](<Running process.png>)
 
 
 
